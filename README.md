@@ -1,6 +1,6 @@
 # FlowScope
 
-> AI Workflow Observability Console — built by Millennium Technologies Inc.
+> AI Workflow Observability Console
 
 ![Dashboard](https://raw.githubusercontent.com/deegrate/flowscope/main/public/screenshots/dashboard.png)
 
